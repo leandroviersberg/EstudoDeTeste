@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: AutomacodeBank
+Bundle-SymbolicName: AutomacodeBank
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: AutomacodeBank.jar,
+ Lene e Leo/Downloads/hamcrest-core-1.3 (1).jar,
+ Lene e Leo/Downloads/junit-4.12.jar
+Automatic-Module-Name: AutomacodeBank
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Export-Package: .,
+ RegraNegocio
+Require-Bundle: org.junit
